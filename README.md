@@ -1,2 +1,2 @@
 # hello-world
-Min første repo
+Min første repo.
