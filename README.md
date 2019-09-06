@@ -2,4 +2,4 @@
 Min første repo
 
 
-Hello fra Lisa
+Hello fra Lisa https://github.com/Lisa-kode
