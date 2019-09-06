@@ -1,6 +1,8 @@
 # hello-world
 Min første repo
 
+Rasmus J her
+
 Hej fra toke
 
 (Patrick / https://github.com/patrickmylius)
