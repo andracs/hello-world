@@ -1,3 +1,4 @@
 # hello-world
 Min første repo
-Jeg var først (Patrick)
+
+(Patrick / https://github.com/patrickmylius)
